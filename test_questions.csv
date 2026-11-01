@@ -1,0 +1,13 @@
+question_id,question,expected_answer,source,answerable
+Q01,"How many casual leave days are employees entitled to per year?","12 days per year","leave-policy.md Section 2",Yes
+Q02,"Can I take casual leave for my sister's wedding?","Yes, casual leave can be used for family obligations, subject to a maximum of 3 consecutive days.","leave-policy.md Section 2",Yes
+Q03,"Can unused casual leave be carried forward to the next year?","No, unused casual leave lapses on December 31.","leave-policy.md Section 2",Yes
+Q04,"When is a medical certificate required for sick leave?","For 3 or more consecutive days of sick leave.","leave-policy.md Section 3",Yes
+Q05,"What is the maximum earned leave accumulation?","45 days.","leave-policy.md Section 4",Yes
+Q06,"What is the deadline for submitting expense claims?","Within 30 days. Claims submitted after 30 but within 60 days require a written explanation and department head approval. Claims after 60 days are not reimbursed.","expense-policy.md Section 2",Yes
+Q07,"Is daily travel from home to the office reimbursable?","No, home-to-base commuting is not reimbursable.","expense-policy.md Section 3",Yes
+Q08,"What is the reimbursement rate for using a personal car?","Rs 14 per kilometre, with a mileage log.","expense-policy.md Section 3",Yes
+Q09,"What are the core working hours?","11:00 AM to 5:00 PM IST on working days.","remote-work-policy.md Section 2",Yes
+Q10,"Does the company have a cryptocurrency investment policy?","I don't know based on the provided HR policies.","Not available",No
+Q11,"Does the company provide study leave?","I don't know based on the provided HR policies.","Not available",No
+Q12,"Are employees allowed to bring dogs to the office?","I don't know based on the provided HR policies.","Not available",No
